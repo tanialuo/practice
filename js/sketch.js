@@ -7,7 +7,7 @@ let rectLeftW = 300;
 let rectLeftH = 300;
 let rectRightW = 300;
 let rectRightH = 300;
-let textUp = 'are you tired of being RAMDOM?'
+let textUp = 'are you tired of being RANDOM?'
 let textDown = 'me neither'
 let leading = 50;
 
